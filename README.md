@@ -2,7 +2,7 @@
 
 - 💼 Atualmente trabalho com integrações marketplaces e implantação de Sistema ERP;
 - 😃 Em transição de carreira para Web Developer; 
-- 🧑🏽‍💻 Estundante de Desenvolvimento Full Stack;
+- 🧑🏽‍💻 Curso de Desenvolvimento Full Stack em andamento;
 
 <div align="center">
   <a href="https://github.com/jamersonmss">
