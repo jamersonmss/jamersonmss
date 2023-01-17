@@ -18,7 +18,6 @@
   <img align="center" alt="Jamerson-PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jamerson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
 </div>
-
 ##
 
 <div>
