@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Jamerson Marcondes
 
-- 💼 Atualmente trabalho com integrações marketplaces e implantação de Sistema ERP;
+- 💼 Atualmente trabalhando com integrações marketplaces, ecommerce e como analista de implantação de Sistemas ERP;
 - 😃 Em transição de carreira para Web Developer; 
 - 🧑🏽‍💻 Curso de Desenvolvimento Full Stack em andamento;
 
