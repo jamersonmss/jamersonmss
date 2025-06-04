@@ -1,7 +1,7 @@
 ## Olá! Eu sou Jamerson Marcondes
 
 - Atualmente trabalhando com integrações para marketplaces, ecommerce e como analista de implantação de Sistemas ERP;
-- Curso de Desenvolvimento Full Stack em andamento;
+- Desenvolvimento Full Stack em andamento;
 
 <div>
   <a href="https://github.com/jamersonmss">
