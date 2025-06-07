@@ -1,6 +1,8 @@
 ## Olá! Eu sou Jamerson Marcondes
 
 - Atualmente trabalhando com integrações para marketplaces, ecommerce e como analista de implantação de Sistemas ERP;
+- Envio de aplicativos google para publicação, e implementação com treinamentos na Curseduca;
+- Tecnólogo em Sistemas de Informação (FANESE)
 - Desenvolvimento Full Stack em andamento;
 
 <div>
