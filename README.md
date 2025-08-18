@@ -1,9 +1,36 @@
-## Olá! Eu sou Jamerson Marcondes
+# 👋 Olá, eu sou Jamerson Marcondes  
 
-- Atualmente trabalhando com integrações para marketplaces, ecommerce e como analista de implantação de Sistemas ERP;
-- Envio de aplicativos google para publicação, e implementação com treinamentos na Curseduca;
-- Tecnólogo em Sistemas de Informação (FANESE)
-- Desenvolvimento Full Stack em andamento;
+💻 Desenvolvedor focado em **aplicativos móveis** e **integrações de sistemas**.  
+Atualmente trabalho com criação, manutenção e publicação de aplicativos, além de atuar em integrações entre sistemas ERP e marketplaces.  
+
+---
+
+## 🚀 Sobre mim  
+- 📱 Criação e manutenção de aplicativos (Android/iOS)  
+- ⚙️ Geração de **bundles/APKs** para publicação em lojas (Google Play e outras)  
+- 🔄 Atualização de aplicativos existentes, ajustes em **Gradle, CLI, JSON configs** e pipelines de build  
+- 🔗 Experiência em **conexões entre sistemas** (consumo de APIs já existentes)  
+- 🎓 Tecnólogo em **Sistemas de Informação (FANESE)**  
+- 🌱 Em formação contínua como **Desenvolvedor Full Stack**  
+
+---
+
+## 🔧 Tecnologias e Ferramentas  
+- **Mobile:** React Native, Android Studio, Gradle, CLI  
+- **Backend (conexões):** Consumo de APIs REST  
+- **Outros:** Git, Linux, JSON  
+- **Banco de Dados:** MongoDB, SQL Server, MySQL  
+- **Frontend (apoio):** React, HTML, CSS, JavaScript, TypeScript  
+
+---
+
+## 📂 Projetos em destaque  
+- 🚀 Criação e publicação de novos aplicativos (bundle/apk)  
+- 🔄 Atualização e manutenção de apps já em produção  
+- 🔗 Integrações entre sistemas ERP e marketplaces  
+- 🐍 Automatizações de processos em **Python**  
+
+---
 
 <div>
   <a href="https://github.com/jamersonmss">
