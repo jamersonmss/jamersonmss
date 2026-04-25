@@ -24,11 +24,68 @@ Atualmente trabalho com criação, manutenção e publicação de aplicativos, a
 
 ---
 
-## 📂 Projetos em destaque  
-- 🚀 Criação e publicação de novos aplicativos (bundle/apk)  
-- 🔄 Atualização e manutenção de apps já em produção  
-- 🔗 Integrações entre sistemas ERP e marketplaces  
-- 🐍 Automatizações de processos em **Python**  
+## 📂 Repositórios por Área
+
+### 🐍 Python & Automações
+| Repositório | Descrição |
+|---|---|
+| [projetos_em_python](https://github.com/jamersonmss/projetos_em_python) | Projetos e notebooks de estudo em Python |
+
+> Em breve: automações de download, upload e integração com ERPs
+
+---
+
+### 🌐 Frontend — HTML & CSS
+| Repositório | Descrição |
+|---|---|
+| [projeto-inicial-html-css](https://github.com/jamersonmss/projeto-inicial-html-css) | Primeiro projeto HTML e CSS |
+| [html_css](https://github.com/jamersonmss/html_css) | Projetos de estudo HTML/CSS |
+| [Flexbox_Dio](https://github.com/jamersonmss/Flexbox_Dio) | Flexbox — DIO |
+| [clone-instagram-dio](https://github.com/jamersonmss/clone-instagram-dio) | Clone do Instagram — DIO |
+| [projeto-curriculo](https://github.com/jamersonmss/projeto-curriculo) | Currículo em HTML |
+| [projeto-pagina-receitas](https://github.com/jamersonmss/projeto-pagina-receitas) | Clone de página de receitas |
+| [pagina_de_conteudo](https://github.com/jamersonmss/pagina_de_conteudo) | Página de conteúdo |
+| [pagina_de_captura](https://github.com/jamersonmss/pagina_de_captura) | Página de captura |
+| [pagina-de-redirecionamento](https://github.com/jamersonmss/pagina-de-redirecionamento) | Página de redirecionamento |
+
+---
+
+### 🔷 C# / .NET
+| Repositório | Descrição |
+|---|---|
+| [minimal-api](https://github.com/jamersonmss/minimal-api) | API Minimal com .NET |
+| [Dio-Novos-Projetos](https://github.com/jamersonmss/Dio-Novos-Projetos) | Projetos C# — DIO |
+
+---
+
+### 🐘 PHP
+| Repositório | Descrição |
+|---|---|
+| [php](https://github.com/jamersonmss/php) | Estudos em PHP |
+| [estrutura-microsservicos](https://github.com/jamersonmss/estrutura-microsservicos) | Microsserviços com Docker e PHP |
+
+---
+
+### 🟨 JavaScript & TypeScript
+| Repositório | Descrição |
+|---|---|
+| [desafio-ts](https://github.com/jamersonmss/desafio-ts) | Desafio em TypeScript |
+| [Cursos-Br](https://github.com/jamersonmss/Cursos-Br) | Projetos do Curso Programador BR |
+
+---
+
+### 🐧 Linux & Shell
+| Repositório | Descrição |
+|---|---|
+| [Linux](https://github.com/jamersonmss/Linux) | Projetos do curso Linux do Zero |
+
+---
+
+### 📖 Git & Estudos Gerais
+| Repositório | Descrição |
+|---|---|
+| [dio-desafio-github-repositorio](https://github.com/jamersonmss/dio-desafio-github-repositorio) | Desafio Git/GitHub — DIO |
+| [resumo-do-lab](https://github.com/jamersonmss/resumo-do-lab) | Resumo do laboratório — DIO |
 
 ---
 
@@ -38,18 +95,9 @@ Atualmente trabalho com criação, manutenção e publicação de aplicativos, a
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jamersonmss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
 </div>
 
-# 🚀 Hard Skills  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jamerson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jamerson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jamerson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jamerson-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jamerson-PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jamerson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jamerson-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Jamerson-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg">
-  <img align="center" alt="Jamerson-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg">  
-</div>
+# 🚀 Hard Skills
+
+<p><img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"><img alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg"><img alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg"></p>
   
 ##
 # Conecte-se comigo
@@ -59,4 +107,3 @@ Atualmente trabalho com criação, manutenção e publicação de aplicativos, a
   <a href="https://www.linkedin.com/in/jamersonmss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send/?phone=5579999864731&text=Ol%C3%A1%2C+gostaria+de+conversar+sobre+meu+neg%C3%B3cio+na+internet.&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div> 
-
