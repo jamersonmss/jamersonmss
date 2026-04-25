@@ -94,10 +94,6 @@ Atualmente trabalho com criação, manutenção e publicação de aplicativos, a
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jamersonmss&layout=compact&langs_count=7&theme=dark"/>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jamersonmss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
 </div>
-
-# 🚀 Hard Skills
-
-<p><img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"><img alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg"><img alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg"></p>
   
 ##
 # Conecte-se comigo
