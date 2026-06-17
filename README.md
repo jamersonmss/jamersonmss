@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Jamerson Marcondes  
+# 👋 Olá, eu sou Jamerson  
 
 💻 Desenvolvedor focado em **aplicativos móveis** e **integrações de sistemas**.  
 Atualmente trabalho com criação, manutenção e publicação de aplicativos, além de atuar em integrações entre sistemas ERP e marketplaces.  
