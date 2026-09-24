@@ -89,12 +89,6 @@ Atualmente trabalho com criação, manutenção e publicação de aplicativos, a
 
 ---
 
-<div>
-  <a href="https://github.com/jamersonmss">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jamersonmss&layout=compact&langs_count=7&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jamersonmss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-</div>
-  
 ##
 # Conecte-se comigo
 <div>
