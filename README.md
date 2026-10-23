@@ -50,6 +50,17 @@ Atualmente trabalho com criação, manutenção e publicação de aplicativos, a
 
 ---
 
+### ⚛️ React
+| Repositório | Descrição |
+|---|---|
+| [trilha-react-desafio01-calculadora](https://github.com/jamersonmss/trilha-react-desafio01-calculadora) | Calculadora em React |
+| [trilha-react-desafio-2](https://github.com/jamersonmss/trilha-react-desafio-2) | Wiki de repositórios do GitHub |
+| [trilha-react-desafio-3](https://github.com/jamersonmss/trilha-react-desafio-3) | Tela de login da DIO |
+| [trilha-react-desafio-4](https://github.com/jamersonmss/trilha-react-desafio-4) | Validação de login com TypeScript |
+| [trilha-react-desafio-5](https://github.com/jamersonmss/trilha-react-desafio-5) | Página de mais informações |
+
+---
+
 ### 🔷 C# / .NET
 | Repositório | Descrição |
 |---|---|
@@ -84,7 +95,7 @@ Atualmente trabalho com criação, manutenção e publicação de aplicativos, a
 ### 📖 Git & Estudos Gerais
 | Repositório | Descrição |
 |---|---|
-| [dio-desafio-github-repositorio](https://github.com/jamersonmss/dio-desafio-github-repositorio) | Desafio Git/GitHub — DIO |
+| [dio_resumos](https://github.com/jamersonmss/dio_resumos) | Resumos do curso de Git e GitHub — DIO |
 | [resumo-do-lab](https://github.com/jamersonmss/resumo-do-lab) | Resumo do laboratório — DIO |
 
 ---
