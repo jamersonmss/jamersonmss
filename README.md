@@ -1,26 +1,42 @@
-# 👋 Olá, eu sou Jamerson  
+# 👋 Olá, eu sou Jamerson
 
-💻 Desenvolvedor focado em **aplicativos móveis** e **integrações de sistemas**.  
-Atualmente trabalho com criação, manutenção e publicação de aplicativos, além de atuar em integrações entre sistemas ERP e marketplaces.  
-
----
-
-## 🚀 Sobre mim  
-- 📱 Criação e manutenção de aplicativos (Android/iOS)  
-- ⚙️ Geração de **bundles/APKs** para publicação em lojas (Google Play e outras)  
-- 🔄 Atualização de aplicativos existentes, ajustes em **Gradle, CLI, JSON configs** e pipelines de build  
-- 🔗 Experiência em **conexões entre sistemas** (consumo de APIs já existentes)  
-- 🎓 Tecnólogo em **Sistemas de Informação (FANESE)**  
-- 🌱 Em formação contínua como **Desenvolvedor Full Stack**  
+💻 **Desenvolvedor Full Stack** em formação contínua, com projetos em **frontend, backend, banco de dados e infraestrutura**, além de experiência com **publicação de aplicativos mobile** e **integrações entre sistemas ERP e marketplaces**.
 
 ---
 
-## 🔧 Tecnologias e Ferramentas  
-- **Mobile:** React Native, Android Studio, Gradle, CLI  
-- **Backend (conexões):** Consumo de APIs REST  
-- **Outros:** Git, Linux, JSON  
-- **Banco de Dados:** MongoDB, SQL Server, MySQL  
-- **Frontend (apoio):** React, HTML, CSS, JavaScript, TypeScript  
+## 🚀 Sobre mim
+- 🌐 **Frontend:** interfaces com React, TypeScript, HTML e CSS (Flexbox, layouts responsivos)
+- ⚙️ **Backend:** APIs REST com C# / ASP.NET (Minimal APIs, Entity Framework), além de PHP e Python
+- 🗄️ **Banco de dados:** modelagem e consultas em SQL Server e MySQL
+- 🐳 **Infraestrutura:** Docker, Nginx como balanceador de carga e scripts Bash em Linux
+- 🔗 **Integrações:** consumo de APIs REST e conexão entre ERPs e marketplaces
+- 🎓 Tecnólogo em **Sistemas de Informação (FANESE)**
+
+---
+
+## 💼 Experiência
+
+**📱 Aplicativos mobile — Curseduca**
+Participei do projeto de aplicativos **iOS e Android** em **React Native** da Curseduca, que já estava em andamento. Minha parte era criar novos aplicativos a partir da base existente:
+- Configurar cada novo app (arquivos JSON, Gradle, ícones e identidade)
+- Gerar os builds (**APK/AAB e iOS**) para publicação nas lojas
+- Entregar cada app novo via **pull request**, seguindo o fluxo de revisão do time
+
+**🔗 Integrações de sistemas**
+Conexões entre sistemas **ERP e marketplaces** através de APIs REST.
+
+---
+
+## 🔧 Tecnologias e Ferramentas
+
+| Área | Tecnologias |
+|---|---|
+| **Frontend** | React, TypeScript, JavaScript, HTML, CSS |
+| **Backend** | C#, .NET / ASP.NET, PHP, Python |
+| **Banco de Dados** | SQL Server, MySQL |
+| **Mobile** | Android Studio, Xcode, Gradle, React Native |
+| **DevOps & Ferramentas** | Git, GitHub, Docker, Nginx, Linux, Bash |
+| **Testes** | xUnit |
 
 ---
 
